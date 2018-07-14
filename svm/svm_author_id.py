@@ -32,6 +32,10 @@ features_train, features_test, labels_train, labels_test = preprocess()
 #Initializing Class Variable
 clf = svm.SVC(C=1000 , kernel="linear", gamma=1)
 
+#to Decrease the time 
+features_train = features_train[:len(features_train)/100]
+labels_train = labels_train[:len(labels_train)/100]
+
 t0=time()
 clf.fit(features_train , labels_train)
 print 'Training Time = ' , round(time()-t0,3) , 's'
@@ -43,8 +47,6 @@ print 'Test Time = ' , round(time()-t1,3) , 's'
 acc = accuracy_score(labels_test,labels_pred)
 print 'Accuracy = ',acc
 #########################################################
-#to Decrease the time 
-#features_train = features_train[:len(features_train)/100]
-#labels_train = labels_train[:len(labels_train)/100]
+
 
 
