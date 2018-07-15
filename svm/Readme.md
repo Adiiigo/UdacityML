@@ -72,5 +72,21 @@
        50th element =  1
 
        Accuracy =  0.892491467577
+       
+
+5. python svm_author_id_count.py
+   - ##### Output5 (C=10000 , Kernel=rbf , gamma=auto)
+        no. of Chris training emails: 7936
+        
+        no. of Sara training emails: 7884
+        
+        Training Time =  0.161 s
+        
+        Test Time =  1.495 s
+        
+        Chris' mail count =  1018
+        
+        Accuracy =  0.892491467577
+
 
 _**-- Greater the value of C , better the accuracy**_
