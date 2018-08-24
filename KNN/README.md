@@ -3,3 +3,5 @@ Links to be referred :
  - https://www.slideshare.net/Simplilearn/knearest-neighbor-classification-algorithm-how-knn-algorithm-works-knn-algorithm-simplilearn/Simplilearn/knearest-neighbor-classification-algorithm-how-knn-algorithm-works-knn-algorithm-simplilearn   
  - https://www.youtube.com/watch?v=UqYde-LULfs
  - https://www.youtube.com/watch?v=odqIu23OSbs 
+ 
+ #### Excecuted on anaconda_navigator -> jupyter
