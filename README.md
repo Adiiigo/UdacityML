@@ -27,6 +27,10 @@ Folder containing all the codes performed in udacity course in python
     - Sklearn
       - sudo apt-get install python-sklearn
     
-#Install AnacondaNavigator
+### Install AnacondaNavigator
  - https://medium.com/@menuram1126/how-to-install-anaconda-on-ubuntu-16-04-538009ca7936
  - https://stackoverflow.com/questions/43030871/anaconda-navigator-ubuntu16-04#
+
+ - to open anaconda-navigator
+   - ~/anaconda3/bin/activate root  
+   - anaconda-navigator
