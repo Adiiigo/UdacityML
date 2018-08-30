@@ -32,5 +32,5 @@ Folder containing all the codes performed in udacity course in python
  - https://stackoverflow.com/questions/43030871/anaconda-navigator-ubuntu16-04#
 
  - to open anaconda-navigator
-   - ~/anaconda3/bin/activate root  
+   - source ~/anaconda3/bin/activate root
    - anaconda-navigator
