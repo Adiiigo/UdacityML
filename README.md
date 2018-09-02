@@ -47,5 +47,5 @@ Folder containing all the codes performed in udacity course in python
 #### More on stemming alogrithms
   - https://stackoverflow.com/questions/24647400/what-is-the-best-stemming-method-in-python
   
-#### Stemmer V/s Lemmetizer
+#### Stemmer V/s Lemmatizer
   - https://stackoverflow.com/questions/1787110/what-is-the-true-difference-between-lemmatization-vs-stemming 
