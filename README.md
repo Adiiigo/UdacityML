@@ -34,3 +34,18 @@ Folder containing all the codes performed in udacity course in python
  - to open anaconda-navigator
    - source ~/anaconda3/bin/activate root
    - anaconda-navigator
+   
+### Stemming
+  - https://www.youtube.com/watch?v=hdwhI3VYO5A
+  - https://www.youtube.com/watch?v=GQ1sXx8hH4k
+  - https://www.youtube.com/watch?v=9Nuc7EhdNOs
+  - https://www.youtube.com/watch?v=gWbkW_cyNs8
+  
+#### Online Stemmer
+  - https://text-processing.com/demo/stem/
+  
+#### More on stemming alogrithms
+  - https://stackoverflow.com/questions/24647400/what-is-the-best-stemming-method-in-python
+  
+#### Stemmer V/s Lemmetizer
+  - https://stackoverflow.com/questions/1787110/what-is-the-true-difference-between-lemmatization-vs-stemming 
